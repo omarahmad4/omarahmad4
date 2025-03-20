@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Omar! 
+I'm interested in playing around with different concepts and especially now with AI to try and understand the latest tools we have available. 
+You can reach me at https://linkedin.com/in/omar-ahmad-/
 <!--
 **omarahmad4/omarahmad4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
