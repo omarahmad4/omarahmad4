@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Omar Farooq Ahmad
+# 👋 Hi, I’m Omar Ahmad
 
 I'm a **Product-obsessed builder** with a strong technical foundation. Currently pursuing my **MBA at NYU Stern**, I bring an engineering-first mindset to product design, user experience, and systems thinking.
 
